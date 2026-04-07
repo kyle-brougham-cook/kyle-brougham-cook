@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hey, I'm Kyle 👋
 
-<!--
-**kyle-brougham-cook/kyle-brougham-cook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer building clean, user-focused web applications.
 
-Here are some ideas to get you started:
+## 🚀 Current Project
+**Focus Flow**  
+A full-stack task management app with authentication, CI, and responsive UI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 Live: https://focus-flow-gules.vercel.app  
+💻 Repo: https://github.com/kyle-brougham-cook/focus-flow
+
+## 🛠 Tech Stack
+- React + TypeScript
+- Python (Flask)
+- REST APIs
+- PostgreSQL
+- CI/CD (GitHub Actions)
+
+## 📌 What I focus on
+- Building real, production-style apps  
+- Clean UI/UX  
+- Proper state management  
+- Writing maintainable backend APIs  
+
+## 📫 Open to opportunities
+Junior full-stack / frontend / backend roles  
+Remote, hybrid, or in-person
